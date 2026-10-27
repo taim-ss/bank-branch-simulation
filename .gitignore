@@ -1,0 +1,12 @@
+__pycache__/
+.pytest_cache/
+.venv/
+venv/
+*.pyc
+*.class
+*.log
+*.zip
+.mypy_cache/
+.coverage
+*.alp
+*.alp.autosave

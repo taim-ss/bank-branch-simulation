@@ -1,0 +1,5 @@
+# Versions verified 2026-10-27 (Python 3.12).
+numpy==2.4.6
+pandas==3.0.3
+matplotlib==3.11.0
+pytest==9.1.1
